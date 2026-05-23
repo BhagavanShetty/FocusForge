@@ -1,0 +1,350 @@
+[
+    {
+        "subject": "Python",
+        "duration": 45,
+        "status": "completed",
+        "focus_rating": 4
+    },
+    {
+        "subject": "Math",
+        "duration": 30,
+        "status": "completed",
+        "focus_rating": 4
+    },
+    {
+        "subject": "AI",
+        "duration": 25,
+        "status": "interrupted",
+        "focus_rating": 3
+    },
+    {
+        "subject": "Python",
+        "duration": 60,
+        "status": "completed",
+        "focus_rating": 5
+    },
+    {
+        "subject": "Operating Systems",
+        "duration": 35,
+        "status": "interrupted",
+        "focus_rating": 2
+    },
+    {
+        "subject": "Databases",
+        "duration": 70,
+        "status": "completed",
+        "focus_rating": 4
+    },
+    {
+        "subject": "Cybersecurity",
+        "duration": 40,
+        "status": "completed",
+        "focus_rating": 4
+    },
+    {
+        "subject": "Algorithms",
+        "duration": 55,
+        "status": "completed",
+        "focus_rating": 4
+    },
+    {
+        "subject": "Python",
+        "duration": 30,
+        "status": "interrupted",
+        "focus_rating": 2
+    },
+    {
+        "subject": "Machine Learning",
+        "duration": 100,
+        "status": "interrupted",
+        "focus_rating": 2
+    },
+    {
+        "subject": "AI",
+        "duration": 50,
+        "status": "completed",
+        "focus_rating": 4
+    },
+    {
+        "subject": "Math",
+        "duration": 90,
+        "status": "interrupted",
+        "focus_rating": 3
+    },
+    {
+        "subject": "Web Development",
+        "duration": 45,
+        "status": "completed",
+        "focus_rating": 5
+    },
+    {
+        "subject": "Cybersecurity",
+        "duration": 65,
+        "status": "completed",
+        "focus_rating": 4
+    },
+    {
+        "subject": "Data Structures",
+        "duration": 85,
+        "status": "completed",
+        "focus_rating": 4
+    },
+    {
+        "subject": "Databases",
+        "duration": 50,
+        "status": "completed",
+        "focus_rating": 4
+    },
+    {
+        "subject": "Algorithms",
+        "duration": 80,
+        "status": "interrupted",
+        "focus_rating": 3
+    },
+    {
+        "subject": "Python",
+        "duration": 45,
+        "status": "completed",
+        "focus_rating": 5
+    },
+    {
+        "subject": "AI",
+        "duration": 40,
+        "status": "completed",
+        "focus_rating": 4
+    },
+    {
+        "subject": "Math",
+        "duration": 75,
+        "status": "completed",
+        "focus_rating": 4
+    },
+    {
+        "subject": "Python",
+        "duration": 50,
+        "status": "completed",
+        "focus_rating": 5
+    },
+    {
+        "subject": "Cybersecurity",
+        "duration": 30,
+        "status": "interrupted",
+        "focus_rating": 2
+    },
+    {
+        "subject": "Machine Learning",
+        "duration": 120,
+        "status": "completed",
+        "focus_rating": 5
+    },
+    {
+        "subject": "Databases",
+        "duration": 40,
+        "status": "completed",
+        "focus_rating": 4
+    },
+    {
+        "subject": "AI",
+        "duration": 35,
+        "status": "interrupted",
+        "focus_rating": 3
+    },
+    {
+        "subject": "Math",
+        "duration": 60,
+        "status": "completed",
+        "focus_rating": 4
+    },
+    {
+        "subject": "Web Development",
+        "duration": 90,
+        "status": "completed",
+        "focus_rating": 5
+    },
+    {
+        "subject": "Cloud Computing",
+        "duration": 45,
+        "status": "completed",
+        "focus_rating": 4
+    },
+    {
+        "subject": "Python",
+        "duration": 70,
+        "status": "completed",
+        "focus_rating": 5
+    },
+    {
+        "subject": "Algorithms",
+        "duration": 65,
+        "status": "interrupted",
+        "focus_rating": 3
+    },
+    {
+        "subject": "Operating Systems",
+        "duration": 55,
+        "status": "completed",
+        "focus_rating": 4
+    },
+    {
+        "subject": "Data Structures",
+        "duration": 95,
+        "status": "completed",
+        "focus_rating": 5
+    },
+    {
+        "subject": "AI",
+        "duration": 30,
+        "status": "completed",
+        "focus_rating": 4
+    },
+    {
+        "subject": "Math",
+        "duration": 110,
+        "status": "interrupted",
+        "focus_rating": 2
+    },
+    {
+        "subject": "Cybersecurity",
+        "duration": 75,
+        "status": "completed",
+        "focus_rating": 5
+    },
+    {
+        "subject": "Machine Learning",
+        "duration": 80,
+        "status": "interrupted",
+        "focus_rating": 3
+    },
+    {
+        "subject": "Databases",
+        "duration": 35,
+        "status": "completed",
+        "focus_rating": 4
+    },
+    {
+        "subject": "Python",
+        "duration": 100,
+        "status": "completed",
+        "focus_rating": 5
+    },
+    {
+        "subject": "Web Development",
+        "duration": 50,
+        "status": "interrupted",
+        "focus_rating": 2
+    },
+    {
+        "subject": "Cloud Computing",
+        "duration": 85,
+        "status": "completed",
+        "focus_rating": 4
+    },
+    {
+        "subject": "AI",
+        "duration": 45,
+        "status": "completed",
+        "focus_rating": 5
+    },
+    {
+        "subject": "Algorithms",
+        "duration": 70,
+        "status": "completed",
+        "focus_rating": 4
+    },
+    {
+        "subject": "Operating Systems",
+        "duration": 40,
+        "status": "interrupted",
+        "focus_rating": 2
+    },
+    {
+        "subject": "Data Structures",
+        "duration": 60,
+        "status": "completed",
+        "focus_rating": 4
+    },
+    {
+        "subject": "Math",
+        "duration": 55,
+        "status": "completed",
+        "focus_rating": 4
+    },
+    {
+        "subject": "Cybersecurity",
+        "duration": 95,
+        "status": "completed",
+        "focus_rating": 5
+    },
+    {
+        "subject": "Python",
+        "duration": 25,
+        "status": "interrupted",
+        "focus_rating": 1
+    },
+    {
+        "subject": "Machine Learning",
+        "duration": 60,
+        "status": "completed",
+        "focus_rating": 4
+    },
+    {
+        "subject": "Web Development",
+        "duration": 75,
+        "status": "completed",
+        "focus_rating": 5
+    },
+    {
+        "subject": "Cloud Computing",
+        "duration": 30,
+        "status": "interrupted",
+        "focus_rating": 2
+    },
+    {
+        "subject": "Python",
+        "duration": 80,
+        "status": "completed",
+        "focus_rating": 5
+    },
+    {
+        "subject": "AI",
+        "duration": 55,
+        "status": "completed",
+        "focus_rating": 4
+    },
+    {
+        "subject": "Cybersecurity",
+        "duration": 45,
+        "status": "completed",
+        "focus_rating": 4
+    },
+    {
+        "subject": "Databases",
+        "duration": 90,
+        "status": "completed",
+        "focus_rating": 5
+    },
+    {
+        "subject": "Math",
+        "duration": 40,
+        "status": "interrupted",
+        "focus_rating": 3
+    },
+    {
+        "subject": "Algorithms",
+        "duration": 50,
+        "status": "completed",
+        "focus_rating": 4
+    },
+    {
+        "subject": "Machine Learning",
+        "duration": 70,
+        "status": "completed",
+        "focus_rating": 5
+    },
+    {
+        "subject": "AI",
+        "duration": 35,
+        "status": "interrupted",
+        "focus_rating": 3
+    }
+]
