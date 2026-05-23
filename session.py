@@ -1,4 +1,3 @@
-# Classes/Objects
 class StudySession:
     def __init__(self, subject, duration, status, focus_rating):
         self.subject = subject

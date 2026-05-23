@@ -1,4 +1,3 @@
-# Containers, Dictionaries, Loops, Conditionals, Statistics logic, Advanced Flow
 from collections import defaultdict
 
 

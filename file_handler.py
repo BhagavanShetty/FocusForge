@@ -1,4 +1,3 @@
-# File I/O, Functions, Exception Handling, Variables
 import json
 import os
 

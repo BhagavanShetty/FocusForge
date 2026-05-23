@@ -1,4 +1,3 @@
-# Functions,Loops, Exception Handling, Conditionals, Testing/Validation
 def get_valid_duration():
     while True:
         try:
